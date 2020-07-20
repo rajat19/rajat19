@@ -25,6 +25,6 @@ I'm a full-stack Engineer expertising in Javascript, Python, Java among the few.
 
 ### Links
 
-- [**Website**](https://rajat19.github.io) 📝
+- [**Website**](https://rajat19.github.io) 🔮 
 - [**Resume**](https://rajatsrivastava.herokuapp.com/cvRajat.pdf) 📄
 

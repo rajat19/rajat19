@@ -2,9 +2,14 @@
 
 I'm a full-stack Engineer expertising in Javascript, Python, Java among the few.
 
-![Nodejs](https://img.shields.io/badge/code-nodejs-green?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/code-java-red?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/code-python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Nodejs](https://img.shields.io/badge/code-node_js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/code-java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/code-python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Intellij](https://img.shields.io/badge/editor-intelli_j-violet?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VSCode](https://img.shields.io/badge/editor-vs_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Mysql](https://img.shields.io/badge/db-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongo](https://img.shields.io/badge/db-mongo_db-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - 👨‍💻 Software Engineer
 - ☕ Loves coffee

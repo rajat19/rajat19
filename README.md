@@ -8,7 +8,7 @@ I'm a Software Engineer expertising in
 ![Mysql](https://img.shields.io/badge/db-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/db-mongo_db-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Spending my time code on
+Spending my time typing some sort of code on
 
 ![Intellij](https://img.shields.io/badge/editor-intelli_j-violet?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/editor-vs_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)

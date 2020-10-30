@@ -21,8 +21,9 @@ Or rather busy with
 
 Currently working with Paytm in making a better digital India
 
-- 💬 Ask me about: Javascript, Python, Django, Mysql or any other stuff
-- 📫 How to reach me: [![rajatsri94@gmail.com](https://img.shields.io/badge/mail_to-rajatsri94-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatsri94@gmail.com) [![@evilj0ker19](https://img.shields.io/badge/tweet_to-evilj0ker19-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evilj0ker19)
+📫 Reaching me: 
+
+[![rajatsri94@gmail.com](https://img.shields.io/badge/mail_to-rajatsri94-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatsri94@gmail.com) [![@evilj0ker19](https://img.shields.io/badge/tweet_to-evilj0ker19-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evilj0ker19)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rajat19&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
 

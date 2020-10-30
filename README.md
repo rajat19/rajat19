@@ -1,21 +1,10 @@
-<!--
-**rajat19/rajat19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there 👋
 
 I'm a full-stack Engineer expertising in Javascript, Python, Java among the few.
+
+![Nodejs](https://img.shields.io/badge/code-nodejs-green?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/code-java-red?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/code-python-blue?style=for-the-badge&logo=python&logoColor=white)
 
 - 👨‍💻 Software Engineer
 - ☕ Loves coffee
@@ -23,8 +12,10 @@ I'm a full-stack Engineer expertising in Javascript, Python, Java among the few.
 - 💬 Ask me about: Javascript, Python, Django, Mysql or any other stuff
 - 📫 How to reach me: [rajatsri94@gmail.com](mailto:rajatsri94@gmail.com) or on twitter [@evilj0ker19](https://twitter.com/evilj0ker19)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rajat19&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
+
 ### Links
 
 - [**Website**](https://rajat19.github.io) 🔮 
-- [**Resume**](https://rajatsrivastava.herokuapp.com/cvRajat.pdf) 📄
+- [**Resume**](https://rajatsrivastava.herokuapp.com/resume.pdf) 📄
 

@@ -7,6 +7,8 @@ I'm a Software Engineer expertising in
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/mongo_db-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/tools-kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
 
 Spending my time typing some sort of code on
 
@@ -19,9 +21,15 @@ Or rather busy with
 ![Prime](https://img.shields.io/badge/prime-00A8E1?style=for-the-badge&logo=amazon-prime&logoColor=white)
 ![Coffee](https://img.shields.io/badge/coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
 
+Published some packages on
+
+[![Github](https://img.shields.io/badge/github_packages-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajat19?tab=packages)
+[![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~rajatsriv)
+[![Pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/rajatsriv/)
+
 Currently working with Paytm in making a better digital India
 
-📫 Reaching me: 
+📫 Reaching me out: 
 
 [![rajatsri94@gmail.com](https://img.shields.io/badge/mail_to-rajatsri94-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatsri94@gmail.com) [![@evilj0ker19](https://img.shields.io/badge/tweet_to-evilj0ker19-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evilj0ker19)
 

@@ -5,6 +5,7 @@ I'm a Software Engineer expertising in
 ![Nodejs](https://img.shields.io/badge/node_js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/mongo_db-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Kafka](https://img.shields.io/badge/tools-kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -31,12 +32,13 @@ Currently working with [![Paytm](https://img.shields.io/badge/paytm-grey?style=f
 
 📫 Reaching me out: 
 
-[![rajatsri94@gmail.com](https://img.shields.io/badge/mail_to-rajatsri94-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatsri94@gmail.com) [![@evilj0ker19](https://img.shields.io/badge/tweet_to-evilj0ker19-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evilj0ker19)
+[![rajatsri94@gmail.com](https://img.shields.io/badge/mail-rajatsri94-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatsri94@gmail.com) 
+[![@evilj0ker19](https://img.shields.io/badge/tweet-evilj0ker19-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evilj0ker19)
+[![chat](https://img.shields.io/badge/chat-rajatsri94-00897B?style=for-the-badge&logo=google-hangouts-chat&logoColor=white)](https://chat.google.com/u/0/dm/471d64213a2604f)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rajat19&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
 
 ### Links
 
-- [**Website**](https://rajat19.github.io) 🔮 
-- [**Resume**](https://rajatsrivastava.herokuapp.com/resume.pdf) 📄
-
+[![Website](https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajat19.github.io)
+[![Resume](https://img.shields.io/badge/resume-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://rajatsrivastava.herokuapp.com/resume.pdf)

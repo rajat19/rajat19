@@ -48,9 +48,9 @@ Currently working with [![Paytm](https://img.shields.io/badge/paytm-grey?style=f
 
 📫 Reaching me out: 
 
-[![rajatsri94@gmail.com](https://img.shields.io/badge/mail-rajatsri94-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatsri94@gmail.com) 
-[![@evilj0ker19](https://img.shields.io/badge/tweet-evilj0ker19-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evilj0ker19)
-[![chat](https://img.shields.io/badge/chat-rajatsri94-00897B?style=for-the-badge&logo=google-hangouts-chat&logoColor=white)](https://chat.google.com/u/0/dm/471d64213a2604f)
+[![rajatsri94@gmail.com](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatsri94@gmail.com) 
+[![@evilj0ker19](https://img.shields.io/badge/tweet-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evilj0ker19)
+[![chat](https://img.shields.io/badge/chat-00897B?style=for-the-badge&logo=google-hangouts-chat&logoColor=white)](https://chat.google.com/u/0/dm/471d64213a2604f)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rajat19&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
 

@@ -6,23 +6,39 @@ I'm a Software Engineer expertising in
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Jekyll](https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
+
+With Hands on experience working with data stores like
+
 ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/mongo_db-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/tools-kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+And some useful tools like
 
-Spending my time typing some sort of code on
+![Kafka](https://img.shields.io/badge/kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![AWS](https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+Spending my time scribbling some sort of code on
 
 ![Intellij](https://img.shields.io/badge/intelli_j-000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 Or rather busy with
 
 ![Netflix](https://img.shields.io/badge/netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Prime](https://img.shields.io/badge/prime-00A8E1?style=for-the-badge&logo=amazon-prime&logoColor=white)
-![Coffee](https://img.shields.io/badge/coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
+![Fifa 19](https://img.shields.io/badge/fifa_21-326295?style=for-the-badge&logo=fifa&logoColor=white)
+![Duolingo](https://img.shields.io/badge/duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+![YT Music](https://img.shields.io/badge/yt_music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
-Published some packages on
+Checkout some of my packages published on
 
 [![Github](https://img.shields.io/badge/github_packages-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajat19?tab=packages)
 [![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~rajatsriv)

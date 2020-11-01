@@ -5,20 +5,20 @@ I'm a Software Engineer expertising in
 ![Nodejs](https://img.shields.io/badge/node_js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
 
 With Hands on experience working with data stores like
 
 ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Mongo](https://img.shields.io/badge/mongo_db-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongo](https://img.shields.io/badge/mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 And some useful tools like
 
 ![Kafka](https://img.shields.io/badge/kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![AWS](https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Kibana](https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
@@ -26,8 +26,8 @@ And some useful tools like
 
 Spending my time scribbling some sort of code on
 
-![Intellij](https://img.shields.io/badge/intelli_j-000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Intellij](https://img.shields.io/badge/idea-000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VSCode](https://img.shields.io/badge/code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 Or rather busy with
@@ -40,7 +40,7 @@ Or rather busy with
 
 Checkout some of my packages published on
 
-[![Github](https://img.shields.io/badge/github_packages-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajat19?tab=packages)
+[![Github](https://img.shields.io/badge/gh_packages-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajat19?tab=packages)
 [![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~rajatsriv)
 [![Pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/rajatsriv/)
 

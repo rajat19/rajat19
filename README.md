@@ -58,4 +58,4 @@ Currently working with [![Paytm](https://img.shields.io/badge/paytm-grey?style=f
 ### Links
 
 [![Website](https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajat19.github.io)
-[![Resume](https://img.shields.io/badge/resume-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://rajatsrivastava.herokuapp.com/resume.pdf)
+[![Resume](https://img.shields.io/badge/resume-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://rajat19.github.io/assets/pdf/resume.pdf)

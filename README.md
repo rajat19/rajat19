@@ -21,11 +21,11 @@ And some useful tools like
 
 ![Kafka](https://img.shields.io/badge/kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Kibana](https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 Spending my time scribbling some sort of code on
 

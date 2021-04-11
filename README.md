@@ -17,10 +17,10 @@ I'm a Senior Software Engineer at &nbsp; [![Paytm](https://img.shields.io/badge/
 With Hands on experience working with data stores like
 
 [![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Maria](https://img.shields.io/badge/maria-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
 [![Mongo](https://img.shields.io/badge/mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-<!-- [![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)
 [![Cassandra](https://img.shields.io/badge/cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)](#)
+<!-- [![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)
+[![Maria](https://img.shields.io/badge/maria-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#) -->
 
 <!-- And some useful tools like
@@ -32,7 +32,8 @@ With Hands on experience working with data stores like
 [![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](#)
 [![Kibana](https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](#)
 [![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#) -->
+[![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#) 
+-->
 
 <!-- Spending my time scribbling some sort of code on
 

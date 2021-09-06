@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm a Senior Software Engineer at &nbsp; [![Paytm](https://img.shields.io/badge/paytm-20336B?style=for-the-badge&logo=paytm&logoColor=white)](https://paytm.com) &nbsp; who has expertise in
+I'm a Senior Software Engineer<!-- at &nbsp; [![Paytm](https://img.shields.io/badge/paytm-20336B?style=for-the-badge&logo=paytm&logoColor=white)](https://paytm.com) -->&nbsp;having expertise in
 
 [![Nodejs](https://img.shields.io/badge/node_js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Golang](https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
 [![Jekyll](https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)](#)
 <!-- [![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#) -->
 

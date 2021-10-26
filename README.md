@@ -14,7 +14,7 @@ I'm a Senior Software Engineer<!-- at &nbsp; [![Paytm](https://img.shields.io/ba
 [![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#) -->
-
+ 
 With Hands on experience working with data stores like
 
 [![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)

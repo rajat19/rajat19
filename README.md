@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Software Engineer<!-- at &nbsp; [![Paytm](https://img.shields.io/badge/paytm-20336B?style=for-the-badge&logo=paytm&logoColor=white)](https://paytm.com) -->&nbsp;having expertise in
+I'm a Senior Software Engineer<!-- at &nbsp; [![Myntra](https://img.shields.io/badge/myntra-20336B?style=for-the-badge&logo=paytm&logoColor=white)](https://myntra.com) -->&nbsp;having expertise in
 
 [![Nodejs](https://img.shields.io/badge/node_js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)](#)

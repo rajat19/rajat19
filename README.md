@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Software Engineer<!-- at &nbsp; [![Myntra](https://img.shields.io/badge/myntra-20336B?style=for-the-badge&logo=paytm&logoColor=white)](https://myntra.com) -->&nbsp;having expertise in
+I'm a Staff Software Engineer<!-- at &nbsp; [![Myntra](https://img.shields.io/badge/myntra-20336B?style=for-the-badge&logo=paytm&logoColor=white)](https://myntra.com) -->&nbsp;having expertise in
 
 [![Nodejs](https://img.shields.io/badge/node_js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
@@ -56,7 +56,12 @@ Checkout some of my packages published on
 [![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~rajatsriv)
 [![Pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/rajatsriv/)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rajat19&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=rajat19&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff) -->
+
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajat19&show_icons=true&border_radius=5&text_color=ffffff&hide_border=True&line_height=24&title_color=ffffff&hide_rank=True&hide=contribs&bg_color=101217&theme=dark)
+&nbsp;![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat19&langs_count=6&exclude_repo=tumai_website,differentially_private_synthetic_data&show_icons=true&hide_border=true&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=101217)
+&nbsp;<img src="logo_rs_slim.png" alt="drawing" width="146" style="border-radius:50%"/>
+
 
 📫 Reaching me out: 
 

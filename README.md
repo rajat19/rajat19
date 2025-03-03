@@ -4,6 +4,7 @@ I'm a Staff Software Engineer<!-- at &nbsp; [![Myntra](https://img.shields.io/ba
 
 [![Nodejs](https://img.shields.io/badge/node_js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Golang](https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
